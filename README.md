@@ -1,0 +1,2 @@
+# osiris.dll
+yes
